@@ -19,6 +19,7 @@ echo $this->Js->writeBuffer(array('onDomReady' => false));
 
 <p>
     <a class="btn btn-primary" href="/games/dodge">Aller au jeu de Jean</a>
+    yolo
 </p>
 
 
